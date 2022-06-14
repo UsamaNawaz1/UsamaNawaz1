@@ -3,8 +3,8 @@
 A Full Stack <b>Django Developer</b> and enthusiastically grabbing onto programming languages, frameworks, or principles I can integrate into the coding web of my head.
 
 :mailbox: Reach me out!
-
-[![Freelancer Badge](https://img.shields.io/badge/-@AliUsamaNawaz-1ca0f1?style=flat&labelColor=FFFFFF&logo=&logoColor=white&link=https://www.freelancer.com/u/AliUsamaNawaz)](https://www.freelancer.com/u/AliUsamaNawaz) [![Linkedin Badge](https://img.shields.io/badge/-@aliusamanawaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliusamanawaz/) [![Mail Badge](https://img.shields.io/badge/-usamanawaz1994@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:usamanawaz1994@gmail.com)
+https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white
+[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/aliusamanawaz)](https://www.upwork.com/freelancers/aliusamanawaz) [![Linkedin Badge](https://img.shields.io/badge/-@aliusamanawaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliusamanawaz/) [![Mail Badge](https://img.shields.io/badge/-usamanawaz1994@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:usamanawaz1994@gmail.com)
 
 <!-- TODO: Add last video link -->
 
