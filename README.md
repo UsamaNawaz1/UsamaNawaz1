@@ -8,7 +8,7 @@ A Full Stack <b>Django Developer</b> and enthusiastically grabbing onto programm
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as Associate Software Engineer @ <a href='https://10pearls.com/'>10Pearls</a>
+- 🔭 I’m currently working as SWE @ <a href='https://10pearls.com/'>10Pearls</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in Django.
 - 📫 How to reach me: usamanawaz1994@gmail.com
